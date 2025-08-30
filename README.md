@@ -1,2 +1,2 @@
 Техники тест-дизайна
-https://docs.google.com/spreadsheets/d/13Nu3Xix8FuuKmFSTibgc_O7ClobtHkxFAaZqpHToNHY/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1mARWYObtHhD9mtrrvcZhaHiYUh5_5_Cb/edit?usp=sharing&ouid=107820611178906004497&rtpof=true&sd=true
